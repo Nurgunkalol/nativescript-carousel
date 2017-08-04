@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var grid_layout = require('ui/layouts/grid-layout');
+var grid_layout = require('tns-core-modules/ui/layouts/grid-layout');
 var stack_layout = require('ui/layouts/stack-layout');
 var types = require("utils/types");
 var builder = require("ui/builder");
